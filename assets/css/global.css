@@ -1,0 +1,14 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: rgb(208, 207, 207);
+}
+.content{
+    padding: 1rem;
+}
+.content h1{
+    padding: 1rem;
+}
